@@ -253,3 +253,15 @@ This basically evaluates to this kind of pseudocode:
     return <List/>
   }
 ```
+
+#### Storybook
+
+We also talked about storybook and whats it uses are.
+
+Installation -> [StoryBookJS](https://storybook.js.org/docs/guides/guide-react/)
+
+It is essentoally a documentation tool for ui components.
+We looked into briefly how to build stories ( the file inside `.storybook` of the repo you will be working on today)
+You will be making a story for EACH of your components you make. With this you can test your components before you
+add them toghether to form an app. You will be spending alot of time using this tool and writting many stories throughout the days to come.
+
