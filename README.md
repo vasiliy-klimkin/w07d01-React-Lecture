@@ -1,6 +1,8 @@
 
 ## Component-Based UI w/ React
 
+#### [REPO LINK](https://github.com/vasiliy-klimkin/w07d01-React-Lecture)
+
 Today we will be talking about `React` and Integrating React Components.
 
 ### Review
@@ -63,6 +65,8 @@ JSX is alittle more stricter than HTML. We will have to these rules to write JSX
 `Webpack` - s a popular module bundling system built on top of Node.js. It can handle not only combination and minification of JavaScript and CSS files, but also other assets such as image files (spriting) through the use of plugins.
 
 #### Live Coding
+
+### NOTE: the rest of the notes are for reference if you get lost today in react!
 
 We Will be making a ToDo list.
 
@@ -249,4 +253,3 @@ This basically evaluates to this kind of pseudocode:
     return <List/>
   }
 ```
-
